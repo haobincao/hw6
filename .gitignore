@@ -1,0 +1,6 @@
+*.o
+ht-test
+ht-perf
+str-hash-test
+hash-check
+boggle-driver
